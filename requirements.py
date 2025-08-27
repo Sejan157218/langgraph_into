@@ -5,3 +5,9 @@ langchainhub
 ipykernel
 langchain_groq
 dotenv
+# agentic rag
+langchain_huggingface
+sentence-transformers
+bs4
+tiktoken
+chromadb
